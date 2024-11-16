@@ -20,6 +20,14 @@ La meta de Biogenesys es doble: responder de manera eficiente a los desafíos in
 - **Infraestructura Robusta:** Desarrollo de una infraestructura sanitaria sólida para enfrentar futuros desafíos de salud pública.
 - **Respuesta Eficiente:** Capacidad de responder rápidamente a emergencias sanitarias mediante la identificación y optimización de ubicaciones estratégicas para laboratorios.
 
+## El Proyecto
+
+![image](https://github.com/user-attachments/assets/d5503a94-1a7d-405d-8f62-cb7ea642c3df)
+![image](https://github.com/user-attachments/assets/82d11ac1-530c-4b68-b104-022f2e432261)
+![image](https://github.com/user-attachments/assets/7ccd8776-6b8f-4042-a17b-3fe0e069f478)
+![image](https://github.com/user-attachments/assets/648c65f3-0659-469d-90f6-1075190cf9f8)
+![image](https://github.com/user-attachments/assets/25fb3cb3-3791-4fcb-a5a2-9fd054d1a504)
+
 ## Conclusión
 
 Con su enfoque innovador y basado en datos, BIOGENESYS se posiciona como un líder en la industria farmacéutica, comprometido con la mejora de la salud global. A través de su estrategia de expansión y análisis exhaustivo, la empresa asegura que sus productos y servicios tengan el máximo impacto, beneficiando a comunidades en todo el mundo.
